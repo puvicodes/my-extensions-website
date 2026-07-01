@@ -1,0 +1,10 @@
+@import url('../../_shared/base.css');
+:root {
+    --bg: #0f0800;
+    --text: #fff;
+    --accent: #f59e0b;
+    --accent2: #fbbf24;
+    --blob1: rgba(245,158,11,0.4);
+    --blob2: rgba(251,191,36,0.2);
+    --shadow: rgba(245,158,11,0.4);
+}
